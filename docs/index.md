@@ -8,18 +8,24 @@ El objetivo de este laboratorio es evaluar los conocimientos adquiridos en la ma
 - tailwindcss
 
 ## Criterios de evaluación
-- Se debe entregar un proyecto en github con el código fuente
-- Se tomara en cuenta la estructura del proyecto
-- Calidad del código fuente
-- Documentación del proyecto
-- Presentación del proyecto
-- Crear componentes reutilizables, tanto del servidor y del cliente segun la necesidad que tenga
-- [Enrutamiento dinamico,](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)
-- Y manejar la carga de imagenes de forma correcta con la buenas practicas de Next.js
-- Manejo de variables de entorno
+
+| Criterio                                                                                                                                                                  | Porcentaje  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Se debe entregar un proyecto en github con el código fuente                                                                                                               | 20%         |
+| Calidad del código fuente                                                                                                                                                 | 10%         |
+| Presentación del proyecto                                                                                                                                                 | 10%         |
+| [Crear componentes reutilizables, tanto del servidor y del cliente segun la necesidad que tenga](https://nextjs.org/learn/react-foundations/server-and-client-components) | 30%         |
+| [Enrutamiento dinamico](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)                                                                   | 20%         |
+| [Y manejar la carga de imagenes de forma correcta con la buenas practicas de Next.js](https://nextjs.org/docs/pages/building-your-application/optimizing/images)          | 10%         |
+| [Manejo de variables de entorno](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)                                               | 20%         |
 
 
 ## APi a utilizar
-```text
-API_URL=https://web.dragonball-api.com/
-```
+
+Para este laboratorio se propone el uso de la API de platzi, la cual se puede encontrar en el siguiente enlace: https://fakeapi.platzi.com/
+
+
+
+## Nota importante
+- Tomar muy en cuneta los criterios de evaluación, ya que estos serán los que se tomaran en cuenta para la calificación del laboratorio.
+- El laboratorio se les revisara al instante y si cumplieron con los criterios de calificación se les dará la nota correspondiente.
