@@ -9,16 +9,22 @@ El objetivo de este laboratorio es evaluar los conocimientos adquiridos en la ma
 
 ## Criterios de evaluación
 
-| Criterio                                                                                                                                                                  | Porcentaje  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Se debe entregar un proyecto en github con el código fuente                                                                                                               | 20%         |
-| Calidad del código fuente                                                                                                                                                 | 10%         |
-| Presentación del proyecto                                                                                                                                                 | 10%         |
-| [Crear componentes reutilizables, tanto del servidor y del cliente segun la necesidad que tenga](https://nextjs.org/learn/react-foundations/server-and-client-components) | 30%         |
-| [Enrutamiento dinamico](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)                                                                   | 20%         |
-| [Y manejar la carga de imagenes de forma correcta con la buenas practicas de Next.js](https://nextjs.org/docs/pages/building-your-application/optimizing/images)          | 10%         |
-| [Manejo de variables de entorno](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)                                               | 20%         |
+| Criterio                                                                                                                                                                  | Porcentaje |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Creacion del proyecto en next js                                                                                                                                          | 20%        |
+| Configuracion del proyecto con axios y [Manejo de variables de entorno](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)        | 20%        |
+| Presentación del proyecto                                                                                                                                                 | 10%        |
+| [Crear componentes reutilizables, tanto del servidor y del cliente segun la necesidad que tenga](https://nextjs.org/learn/react-foundations/server-and-client-components) | 30%        |
+| Entrega del proyecto en github                                                                                                                                            | 20%        |
 
+## notas adicionales
+
+| Criterio                                                                                                                                                                   | Porcentaje  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Se debe entregar un proyecto en github con el código fuente                                                                                                                | 20%         |
+| Calidad del código fuente                                                                                                                                                  | 10%         |
+| [Y manejar la carga de imagenes de forma correcta con la buenas practicas de Next.js](https://nextjs.org/docs/pages/building-your-application/optimizing/images)           | 10%         |
+| [Enrutamiento dinamico](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)                                                                    | 20%         |
 
 ## APi a utilizar
 
